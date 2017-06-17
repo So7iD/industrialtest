@@ -1,2 +1,3 @@
 # industrialtest
-o privetfdhdhdfhdffh
+o privetfdhdhdfhdffhsdgsdggdsdgs
+adaptive
